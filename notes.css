@@ -1,0 +1,42 @@
+body{
+    color: whitesmoke;
+    background-color:black;
+}
+footer{
+    text-align: center;
+    padding: 2%;
+    
+}
+h1{
+    font-size: 100px;
+    font-family: serif;
+}
+p{
+    text-align: right;
+}
+h2{
+    font-size: 50px;
+    font-family: serif;
+}
+h3{
+    font-size: 50px;
+    font-family: serif;
+}
+ul{
+    font-size: 20px;
+    font-family: serif;
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+    border-width: 12px;
+}
+th, td{
+    padding: 15px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+th{
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
