@@ -30,6 +30,7 @@ table{
     border-collapse: collapse;
     width: 100%;
     border-width: 12px;
+    font-family: Verdana, sans-serif;
 }
 th, td{
     padding: 15px;
