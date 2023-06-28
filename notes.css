@@ -9,22 +9,22 @@ footer{
 }
 h1{
     font-size: 100px;
-    font-family: verdana;
+    font-family: Verdana, sans-serif;
 }
 p{
     text-align: right;
 }
 h2{
     font-size: 50px;
-    font-family: verdana;
+    font-family: Verdana, sans-serif;
 }
 h3{
     font-size: 50px;
-    font-family: verdana;
+    font-family: Verdana, sans-serif;
 }
 ul{
     font-size: 20px;
-    font-family: verdana;
+    font-family: Verdana, sans-serif;
 }
 table{
     border-collapse: collapse;
